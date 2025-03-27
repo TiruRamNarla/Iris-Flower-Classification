@@ -72,4 +72,5 @@ This project is licensed under the *MIT License*.
 
 ## Author
 
-SRIPATHI RAO KARRI
+NARLA TIRU RAM
+
